@@ -22,16 +22,16 @@ const Hero = () => {
               }}
             >
               Découvrez <br />
-              des propriétés <br />
-              de votre choix
+              où loger selon <br />
+              vos critères
             </motion.h1>
           </div>
           <div className="flexColStart hero-des">
             <span className="secondaryText">
-              Trouvez une variété qui vous plaira aisément
+              Trouvez une propriété qui vous plaira de prime abord
             </span>
             <span className="secondaryText">
-              Oubliez toutes vos difficultés à trouver votre résidence
+              Oubliez toutes les difficultés à trouver votre résidence
             </span>
           </div>
           <div className="flexCenter search-bar">
@@ -74,7 +74,7 @@ const Hero = () => {
             }}
             className="image-container"
           >
-            <img src="./hero-image.png" alt="" />
+            <img src="./biais.JPG" alt="Cité Emma" />
           </motion.div>
         </div>
       </div>

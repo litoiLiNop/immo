@@ -9,8 +9,8 @@ const Footer = () => {
         <div className="flexColStart f-left">
           <img src="./logo2.png" alt="" width={120} />
           <span className="secondaryText">
-            Notre vision c'est de trouver à chacun <br />
-            le meilleur pour y vivre
+            Notre vision c'est de trouver pour <br />
+            chacun le meilleur où vivre
           </span>
         </div>
         <div className="flexColStart f-right">
