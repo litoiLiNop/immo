@@ -31,7 +31,7 @@ const Hero = () => {
               Trouvez une propriété qui vous plaira de prime abord
             </span>
             <span className="secondaryText">
-              Oubliez toutes les difficultés à trouver votre résidence
+              Oubliez les difficultés à trouver votre résidence
             </span>
           </div>
           <div className="flexCenter search-bar">
@@ -45,7 +45,7 @@ const Hero = () => {
                 <CountUp start={8800} end={9000} duration={4} />
                 <span>+</span>
               </span>
-              <span className="secondaryText">Premium product</span>
+              <span className="secondaryText">Propriétés de choix</span>
             </div>
             <div className="flexColCenter stat">
               <span>

@@ -10,14 +10,14 @@ const Footer = () => {
           <img src="./logo2.png" alt="" width={120} />
           <span className="secondaryText">
             Notre vision c'est de trouver pour <br />
-            chacun le meilleur où vivre
+            chacun où vivre le mieux
           </span>
         </div>
         <div className="flexColStart f-right">
           <span className="primaryText">Information</span>
           <span className="secondaryText">145 Bocom - Nkoabang</span>
           <div className="flexCenter f-menu">
-            <span>Propriétés</span>
+            <span>Confidentialité</span>
             <span>Services</span>
             <span>Articles</span>
             <span>A Propos</span>
