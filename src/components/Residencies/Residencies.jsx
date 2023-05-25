@@ -21,7 +21,7 @@ const Residencies = () => {
                 <img src={card.image} alt="home" />
                 <span className="secondaryText r-price">
                   <span>{card.price} </span>
-                  <span style={{ color: "orange" }}>FCFA</span>
+                  <span style={{ color: "orange" }}>FCFA/mois</span>
                 </span>
                 <span className="primaryText">{card.name}</span>
                 <span className="secondaryText">{card.detail}</span>
