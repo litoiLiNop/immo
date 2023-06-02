@@ -5,7 +5,7 @@ const GetStarted = () => {
     <section className="g-wrapper">
       <div className="paddings innerWidth g-container">
         <div className="flexColCenter inner-container">
-          <span className="primaryText">Débuter avec HomaWèm</span>
+          <span className="primaryText">Débuter avec Emma-Laurent</span>
           <span className="secondaryText">
             Souscrire afin de bénéficier des meilleurs quotes
             <br />
